@@ -2,6 +2,7 @@
 
 **Computer Engineering Student | Builder**
 
+
 I always try to turn my ideas into real projects — from embedded systems to mobile or web apps. I'm always open to learn new technologies for my goals.
 
 ---
