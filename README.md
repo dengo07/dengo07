@@ -14,10 +14,10 @@ I always try to turn my ideas into real projects — from embedded systems to mo
 
 ## 🛠️ Tech Stack  
 **Languages:**  
-`C` · `C++` · `Python` ·  `Java` ·`Dart` · `JavaScript` ·  `TypeScript` ·`Rust`   
+`C` · `C++` · `Python` ·  `Java` ·`Rust`   
 
 **Tools & Tech:**  
-`Godot Engine` · `FastAPI` ·  `Embedded Systems` · `Arduino` · `Linux` · `Git` · `Ncurses` · `swingUI`· `Qt6`  
+ `FastAPI`   · `Linux` · `Git` · `Ncurses` · `Textual`·  `Embedded Systems`· `Arduino`  `AVR C`·  `ESP32` · `FREERTOS`
 
 ---
 
