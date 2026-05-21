@@ -17,7 +17,7 @@ I always try to turn my ideas into real projects — from embedded systems to mo
 `C` · `C++` · `Python` ·  `Java` ·`Rust`   
 
 **Tools & Tech:**  
- `FastAPI`   · `Linux` · `Git` · `Ncurses` · `Textual`·  `Embedded Systems`· `Arduino`  `AVR C`·  `ESP32` · `FREERTOS`
+ `FastAPI`   · `Linux` · `Git` · `Ncurses` · `Textual`·  `Embedded Systems`· `Arduino`  `AVR C`·  `ESP32` · `FREERTOS`· `Electronics`
 
 ---
 
